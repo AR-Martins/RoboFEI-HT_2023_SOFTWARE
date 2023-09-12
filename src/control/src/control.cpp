@@ -5,7 +5,7 @@
 
 
 // ros2 action send_goal  /control_action custom_interfaces/action/Control "{action_number: 1}"
-
+//quick trial
 #include <chrono>
 #include <memory>
 #include <thread>
